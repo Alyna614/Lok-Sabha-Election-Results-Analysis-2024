@@ -10,6 +10,8 @@ Objective: To perform data analysis on the 2024 Lok Sabha election results using
 
 Tools Used: SQL for data analysis and PowerPoint for presenting the results.
 
+Data Source: Sourced from [Election Commission of India / Kaggle].
+
 **Deliverables**
 
 PowerPoint Presentation: A detailed slide deck summarizing the key insights.
