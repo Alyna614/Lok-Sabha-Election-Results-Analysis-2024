@@ -1,6 +1,8 @@
 **Lok Sabha Election Results Analysis 2024**
 
-This project involves analyzing the Lok Sabha Election Results 2024 using SQL. Key insights from the analysis have been summarized in a clear and engaging PowerPoint presentation.
+This project involves analyzing the Lok Sabha Election Results 2024 using SQL.
+
+Key insights from the analysis have been summarized in a clear and engaging PowerPoint presentation.
 
 **Project Details**
 
